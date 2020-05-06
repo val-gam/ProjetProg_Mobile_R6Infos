@@ -1,0 +1,2 @@
+rootProject.name='ProjetProg_Mobile_R6Infos'
+include ':app'
